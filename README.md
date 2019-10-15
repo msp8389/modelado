@@ -12,6 +12,6 @@ X1 = Xo + 1/2 * h * (f(Xo, Yo) + f(X1, Y1))
 
 # Instalacion
 
-Una vez descomprimido el comprimido, ejecutar con cualquier navegador el archiv index.html
+Una vez descomprimido el comprimido, ejecutar con cualquier navegador el archivo index.html
  
  
